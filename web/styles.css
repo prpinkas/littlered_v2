@@ -1,0 +1,32 @@
+/*main header color green*/
+body{background-color:#FFFCE8; /*ivory bg color*/
+    margin: 4em;
+    font-family: Helvetica;}
+h1{color:#DD403A;
+    font-size: 4em;
+    font-family: Luminari;
+    text-align: center;}
+h2{color:#3E363F;
+    width: 500px;
+    padding: 1.5em;
+    border-radius: 1em;
+    background-color:#DD403A;
+    color: #FFFCE8;}
+li a{color:#697A21;}
+li{margin: 1em;
+    font-size: 2em;
+    color:#697A21;}
+a {text-decoration: none;}
+.source {color:#3E363F;
+    font-style: italic;}
+a.source{color:#B8B42D;}
+a.start{
+    background-color: #697A21;
+    color:#B8B42D;
+    padding: 1.5em;
+    display: block;
+    width:100px;
+    text-align: center;
+    border-radius: 1em;}
+img{margin: 0 auto;
+    display: block;}
